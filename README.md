@@ -1,5 +1,5 @@
 ## PE Bliss
-Cross-Platform Portable Executable C++ Library
+### Cross-Platform Portable Executable C++ Library
 Compatible with Windows and Linux (tested on MSVC++ 2008, 2010, GCC 4.4 on Linux). Currently tested on little-endian systems only and might not support big-endian ones.
 
 Library has many usage samples and is well unit-tested.
@@ -15,7 +15,7 @@ more samples and tests;
 bugfixes.
 Current version: 1.0.0
 
-Summary
+### Summary
 [+] Read 32- and 64-bit PE files (PE, PE+) for Windows, work similar with both formats
 
 [+] Create PE/PE+ binaries from scratch
